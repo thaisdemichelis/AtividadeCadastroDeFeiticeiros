@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436422177862",
+    "project_id": "teste-2a93a",
+    "storage_bucket": "teste-2a93a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436422177862:android:4c99b92dd8f2a69cf1c647",
+        "android_client_info": {
+          "package_name": "com.example.cadastrodefeiticeiros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436422177862-pf533c8esukn3rnm1o71h3ms0k4tkra5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGA3Di3YPDdDld10i3EU-T4ZM17MJ8bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436422177862-pf533c8esukn3rnm1o71h3ms0k4tkra5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
